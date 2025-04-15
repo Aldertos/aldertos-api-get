@@ -32,8 +32,8 @@ module.exports = {
                     `📝 **Hakkında:** ${user.bio || 'Belirtilmemiş'}\n` +
                     `🏳️ **Hitapları:** ${profile.pronouns || 'Belirtilmemiş'}`
                 )
-                .setImage(avatarURL)
-                .setThumbnail(bannerURL)
+                .setImage(bannerURL)
+                .setThumbnail(avatarURL)
                 .setFooter({ text: "created by aldertos" });
 
             const selectMenu = new ActionRowBuilder().addComponents(
