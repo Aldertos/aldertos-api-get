@@ -22,6 +22,12 @@
 
 ---
 
+## 🤓 Nasıl Çalışıyor?
+
+- İlk olarak userGetToken kısmına hesap token giriyoruz, Sonra o hesapta girebileceğiniz kadar public sunucularına girin bu kadardı 😝
+
+---
+
 ## 📸 Özellikler
 
 - 👤 Kullanıcı bilgilerini detaylı gösterir (isim, bio, pronouns vs.)
