@@ -6,6 +6,13 @@
 
 > Discord kullanıcılarının profil bilgilerini ve ortak sunucu verilerini kolayca gösteren bir Discord API botu.
 
+
+## Bunu yapma sebebim?
+
+- şimdi bunu yapma sebebim şu ki findcord.com adlı sitenin nasıl çalıştığını görmeniz. yani adamlar API içinde Api yapmış yani basit bir şey lütfen nasıl yapıldığını boşuna sorgulamayın iyi kullanımlar. :)
+
+- eğer başka eklememi istediğiniz şeyler varsa discord hesabıma yazabilirsiniz. **aldertos**
+
 ---
 
 ## 📸 Özellikler
