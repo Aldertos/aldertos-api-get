@@ -17,8 +17,9 @@
 
 ## ⚙️ Komutlar
 
-- `!sorgu` - Kullanıcı bilgileri gösteren komut.
+- `!sorgu 1234567890` - Kullanıcı bilgileri gösteren komut.
 - `!bilgi` - API üzerinden sunucu sayısı ve kullanıcı sayısı gösterir.
+- `!vanity test` - Bir vanity url girerek sunucu bilgilerini gösterir.
 
 ---
 
