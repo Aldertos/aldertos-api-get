@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "axios": "^1.8.4",
+    "discord.js": "^14.18.0",
+    "findcord": "^2.0.11",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "name": "aldertos-api-get",
+  "version": "1.0.0",
+  "main": "aldertos.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aldertos",
+  "license": "ISC",
+  "description": "Discord API'den bilgi çekmek.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldertos/aldertos-api-get.git"
+  }
+}
