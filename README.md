@@ -15,10 +15,17 @@
 
 ---
 
+## ⚙️ Komutlar
+
+- `!sorgu` - Kullanıcı bilgileri gösteren komut.
+- `!bilgi` - API üzerinden sunucu sayısı ve kullanıcı sayısı gösterir.
+
+---
+
 ## 📸 Özellikler
 
 - 👤 Kullanıcı bilgilerini detaylı gösterir (isim, bio, pronouns vs.)
-- 🌐 Ortak sunucu bilgilerini embed ile listeler
+- 🌐 Sorgulanan kullanıcının olduğu sunucuları gösterir ve isim yaş dahil.
 - 📊 API üzerinden toplam sunucu ve kullanıcı sayısını gösterir
 
 ---
