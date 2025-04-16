@@ -85,7 +85,6 @@ module.exports = {
             });
 
         } catch (error) {
-            console.error(error);
             message.reply("Kullanıcı bilgileri alınamadı veya ID geçersiz.");
         }
     }
