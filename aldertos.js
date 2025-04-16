@@ -19,7 +19,7 @@ for (const file of commandFiles) {
 
 
 client.on('ready', () => {
-    console.log(`Bot ${client.user.tag} olarak giriş yaptı!`);
+    console.log(`Bot ${client.user.tag} olarak giriş yaptı. Bot ID: (${client.user.id})`);
 });
 
 client.on('messageCreate', async (message) => {
