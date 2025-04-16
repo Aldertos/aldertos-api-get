@@ -35,7 +35,6 @@ module.exports = {
             message.channel.send({ embeds: [bilgiEmbed] });
 
         } catch (err) {
-            console.error(err);
             message.reply("Bilgiler alınırken bir hata oluştu.");
         }
     }
